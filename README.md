@@ -21,8 +21,9 @@ This repository contains data on GitHub users in Chicago with over 100 followers
 
 ## Optional Files
 - `Summary of Analysis.pdf`: Included summary of analysis.
-# •	Additional Help
+# Additional Help
 Using github api https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
-# •	Tips
-Boolean value to be stored in lower case, null value should be traeted as false.
-Browser caching to be considred while testing.
+# Tips
+- Boolean value to be stored in lower case, null value should be traeted as false.
+- Browser caching to be considred while testing.
+- Removal of whitespace characte includes spaces, tabs (\t), and newlines (\n) etc.
