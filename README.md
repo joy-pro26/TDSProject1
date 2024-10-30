@@ -20,7 +20,7 @@ This repository contains data on GitHub users in Chicago with over 100 followers
 - `repositories.csv`: Contains up to 500 of each user's most recently pushed public repositories.
 
 ## Optional Files
-- `Summary of Analysis.pdf`: Included summary of analysis.
+- `TDS_PROJECT1_Analysis.pdf`: Included summary of analysis.
 # Additional Help
 Using github api https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
 # Tips
