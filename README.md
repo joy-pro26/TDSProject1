@@ -21,6 +21,7 @@ This repository contains data on GitHub users in Chicago with over 100 followers
 
 ## Optional Files
 - `TDS_PROJECT1_Analysis.pdf`: Included summary of analysis.
+- TDSPROJECT1_V2.ipynb Colab file.
 # Additional Help
 Using github api https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
 # Tips
